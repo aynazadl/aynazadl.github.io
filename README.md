@@ -48,7 +48,7 @@
       </div>
 
       <div class=footer>
-        <p>&copy; Copyright <script language="JavaScript">var date = new Date(); document.write(date.getFullYear());</script> by Aynaz Adl Zarrabi</p>
+        <p><i>&copy; Copyright <script language="JavaScript">var date = new Date(); document.write(date.getFullYear());</script> by Aynaz Adl Zarrabi</i></p>
         <div class=social style="font-size: 27px;">
           <ul style="list-style: none;">
             <script language="JavaScript">
