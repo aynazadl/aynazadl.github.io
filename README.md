@@ -9,7 +9,7 @@
     <link rel="mask-icon" href="./static/images/favicon.svg" color="#000000">
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title style="font=size: 28px;"> <b>Aynaz Adl Zarrabi, PhD Student | About</b></title>
+    <title style="font=size: 28px;">Aynaz Adl Zarrabi, PhD Student | About</title>
 
     <link rel="stylesheet" href="./static/css/style.css?20230128H4650" type="text/css" />
   </head>
@@ -18,7 +18,7 @@
 
     <div class=container>
 
-      <span class=name><a href="./index.html">Aynaz Adl Zarrabi, PhD Student</a></span>
+      <h1><a href="./index.html">Aynaz Adl Zarrabi, PhD Student</a></h1>
       <div class=navigation>
         <ul>
           <li><a href="./resources.html">Resources</a> </li>
