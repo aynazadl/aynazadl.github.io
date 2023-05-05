@@ -45,6 +45,12 @@
 <p style ="text-align:justify;">I am also interested in writing Python libraries that can help people understand how to use different computational models like the first one is the computation of internal noise <a href="https://github.com/neuro-team-femto/palin">PALIN</a>,which is for now an open source github repository.</p>
 
 
+          div.social ul li {
+    display: inline;
+    margin: 0 2px;
+    padding: 0;
+}
+          
 
         </div>
       </div>
@@ -59,7 +65,7 @@
               tld = 'com';
               document.write('<a href=\"mailto:' + front + '@' + back + '.' + tld + '\" target=\"_blank\">');
             </script>
-           <li><i class="fa fa-envelope"></i> </li>
+           <li style="display: inline; margin: 0 2px; padding: 0;"><i class="fa fa-envelope"></i> </li>
           <a href="https://github.com/aynazadl" target="_blank"> <li> <i class="fa fa-github"></i> </li> </a>
           <a href="https://twitter.com/AynazAdlzarrabi" target="_blank"> <li> <i class="fa fa-twitter"></i> </li> </a>
           <a href="https://www.linkedin.com/in/aynaz-adl-zarrabi/" target="_blank"> <li><i class="fa fa-linkedin"></i></li></a>
