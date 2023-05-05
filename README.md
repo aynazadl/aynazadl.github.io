@@ -35,7 +35,7 @@
 
           
 
-<img style="float: left; width: 150px; padding: 0; margin: 0 24px" alt="Headshot" class="align-left" src="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/6c75cf3f810876e3b67c98f8227b37a08bf29256/DC9E3179-C345-40E9-8A0D-8CE0106DFA7B.JPG">
+<img style="float: left; width: 175px; padding: 0; margin: 0 24px" alt="Headshot" class="align-left" src="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/6c75cf3f810876e3b67c98f8227b37a08bf29256/DC9E3179-C345-40E9-8A0D-8CE0106DFA7B.JPG">
 
 <p style ="text-align:justify;">I am a PhD student at <a href="https://neuro-team-femto.github.io//">Neuro group @ Femto-st</a>, where I'm working on different psychopysical models on patients with impairments of speech prosody perception in right-hemisphere stroke.</p>
 
