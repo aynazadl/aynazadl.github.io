@@ -9,7 +9,7 @@
     <link rel="mask-icon" href="./static/images/favicon.svg" color="#000000">
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Aynaz Adl Zarrabi, PhD Student | About</title>
+    <title <b>Aynaz Adl Zarrabi, PhD Student | About</b></title>
 
     <link rel="stylesheet" href="./static/css/style.css?20230128H4650" type="text/css" />
   </head>
