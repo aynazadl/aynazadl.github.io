@@ -43,13 +43,6 @@
 <p style ="text-align:justify;">My background is in Statistics and applied Mathematics. I have been a Bachelor student at <a href="http://usc.ac.ir/en">University of Science and Culture in Iran</a>, a Master student at <a href="https://mathsinfo.univ-tlse2.fr/plaquette-ismag">University of Toulouse II in France</a>, I did different research internships at <a href="https://crmbm.univ-amu.fr">Center for Magnetic Resonance in Biology and Medicine in Marseille</a>, and in domain of Speech Understanding Analysis at <a href="https://www.archean.tech/archean-labs-en.html">Archean Labs</a>. My <a href="./publications.html">research</a> focused on creating a patient’s model through the application of psychopysical models.</p>
 
 <p style ="text-align:justify;">I am also interested in writing Python libraries that can help people understand how to use different computational models like the first one is the computation of internal noise <a href="https://github.com/neuro-team-femto/palin">PALIN</a>,which is for now an open source github repository.</p>
-
-
-          div.social ul li {
-    display: inline;
-    margin: 0 2px;
-    padding: 0;
-}
           
 
         </div>
@@ -66,10 +59,10 @@
               document.write('<a href=\"mailto:' + front + '@' + back + '.' + tld + '\" target=\"_blank\">');
             </script>
            <li style="display: inline; margin: 0 2px; padding: 0;"><i class="fa fa-envelope"></i> </li>
-          <a href="https://github.com/aynazadl" target="_blank"> <li> <i class="fa fa-github"></i> </li> </a>
-          <a href="https://twitter.com/AynazAdlzarrabi" target="_blank"> <li> <i class="fa fa-twitter"></i> </li> </a>
-          <a href="https://www.linkedin.com/in/aynaz-adl-zarrabi/" target="_blank"> <li><i class="fa fa-linkedin"></i></li></a>
-          <a href="https://scholar.google.com/citations?user=no326G4AAAAJ&hl=en" target="_blank"> <li> <i class="ai ai-google-scholar"></i> </li> </a>
+          <li style="display: inline; margin: 0 2px; padding: 0;"><a href="https://github.com/aynazadl" target="_blank"> <i class="fa fa-github"></i> </li> </a>
+         <li style="display: inline; margin: 0 2px; padding: 0;"> <a href="https://twitter.com/AynazAdlzarrabi" target="_blank"> <i class="fa fa-twitter"></i> </li> </a>
+        <li style="display: inline; margin: 0 2px; padding: 0;">  <a href="https://www.linkedin.com/in/aynaz-adl-zarrabi/" target="_blank"><i class="fa fa-linkedin"></i></li></a>
+         <li style="display: inline; margin: 0 2px; padding: 0;"> <a href="https://scholar.google.com/citations?user=no326G4AAAAJ&hl=en" target="_blank"> <i class="ai ai-google-scholar"></i> </li> </a>
           </ul>
         </div>
       </div>
