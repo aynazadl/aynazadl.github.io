@@ -58,7 +58,7 @@
       <div class=footer>
         <p>&copy; Copyright <script language="JavaScript">var date = new Date(); document.write(date.getFullYear());</script> by Aynaz Adl Zarrabi</p>
         <div class=social style="font-size: 27px;">
-          <ul>
+          <ul style="list-style: none;">
             <script language="JavaScript">
               front = 'aynazadl1+www';
               back = 'gmail';
