@@ -60,10 +60,10 @@
               document.write('<a href=\"mailto:' + front + '@' + back + '.' + tld + '\" target=\"_blank\">');
             </script>
            <li><i class="fa fa-envelope"></i> </li>
-         <li> <a href="https://github.com/aynazadl" target="_blank"> <li> <i class="fa fa-github"></i> </li> </a>
-         <li>   <a href="https://twitter.com/AynazAdlzarrabi" target="_blank"> <li> <i class="fa fa-twitter"></i> </li> </a>
-         <li>   <a href="https://www.linkedin.com/in/aynaz-adl-zarrabi/" target="_blank"> <li><i class="fa fa-linkedin"></i></li></a>
-         <li>   <a href="https://scholar.google.com/citations?user=no326G4AAAAJ&hl=en" target="_blank"> <li> <i class="ai ai-google-scholar"></i> </li> </a>
+          <a href="https://github.com/aynazadl" target="_blank"> <li> <i class="fa fa-github"></i> </li> </a>
+          <a href="https://twitter.com/AynazAdlzarrabi" target="_blank"> <li> <i class="fa fa-twitter"></i> </li> </a>
+          <a href="https://www.linkedin.com/in/aynaz-adl-zarrabi/" target="_blank"> <li><i class="fa fa-linkedin"></i></li></a>
+          <a href="https://scholar.google.com/citations?user=no326G4AAAAJ&hl=en" target="_blank"> <li> <i class="ai ai-google-scholar"></i> </li> </a>
           </ul>
         </div>
       </div>
