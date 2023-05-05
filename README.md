@@ -40,9 +40,9 @@
 
 <p style ="text-align:justify;">I am a PhD student at <a href="https://neuro-team-femto.github.io//">Neuro group @ Femto-st</a>, where I'm working on different psychopysical models on patients with impairments of speech prosody perception in right-hemisphere stroke.</p>
 
-<p>My background is in Statistics and applied Mathematics. I have been a Bachelor student at <a href="http://usc.ac.ir/en">University of Science and Culture in Iran</a>, a Master student at <a href="https://mathsinfo.univ-tlse2.fr/plaquette-ismag">University of Toulouse II in France</a>, I did different research internships at <a href="https://crmbm.univ-amu.fr">Center for Magnetic Resonance in Biology and Medicine in Marseille</a>, and in domain of Speech Understanding Analysis at <a href="https://www.archean.tech/archean-labs-en.html">Archean Labs</a>. My <a href="./publications.html">research</a> focused on creating a patient’s model through the application of psychopysical models.</p>
+<p style ="text-align:justify;">My background is in Statistics and applied Mathematics. I have been a Bachelor student at <a href="http://usc.ac.ir/en">University of Science and Culture in Iran</a>, a Master student at <a href="https://mathsinfo.univ-tlse2.fr/plaquette-ismag">University of Toulouse II in France</a>, I did different research internships at <a href="https://crmbm.univ-amu.fr">Center for Magnetic Resonance in Biology and Medicine in Marseille</a>, and in domain of Speech Understanding Analysis at <a href="https://www.archean.tech/archean-labs-en.html">Archean Labs</a>. My <a href="./publications.html">research</a> focused on creating a patient’s model through the application of psychopysical models.</p>
 
-<p>I am also interested in writing Python libraries that can help people understand how to use different computational models like the first one is the computation of internal noise <a href="https://github.com/neuro-team-femto/palin">PALIN</a>,which is for now an open source github repository.</p>
+<p style ="text-align:justify;">I am also interested in writing Python libraries that can help people understand how to use different computational models like the first one is the computation of internal noise <a href="https://github.com/neuro-team-femto/palin">PALIN</a>,which is for now an open source github repository.</p>
 
 
 
