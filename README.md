@@ -10,7 +10,7 @@
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Aynaz Adl Zarrabi, PhD Student | About</title>
+    <h1> <title>Aynaz Adl Zarrabi, PhD Student | About</title></h1>
 
     <link rel="stylesheet" href="./static/css/style.css?20230128H4650" type="text/css" />
   </head>
