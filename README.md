@@ -9,8 +9,7 @@
     <link rel="mask-icon" href="./static/images/favicon.svg" color="#000000">
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    
-    <h1> <title>Aynaz Adl Zarrabi, PhD Student | About</title></h1>
+    <title>Aynaz Adl Zarrabi, PhD Student | About</title>
 
     <link rel="stylesheet" href="./static/css/style.css?20230128H4650" type="text/css" />
   </head>
@@ -36,7 +35,7 @@
 
           
 
-<img alt="Headshot" class="align-left" src="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/6c75cf3f810876e3b67c98f8227b37a08bf29256/DC9E3179-C345-40E9-8A0D-8CE0106DFA7B.JPG" style="width: 150px; padding: 0; margin: 0 24px" /> <br/>
+<img style="float: left;"alt="Headshot" class="align-left" src="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/6c75cf3f810876e3b67c98f8227b37a08bf29256/DC9E3179-C345-40E9-8A0D-8CE0106DFA7B.JPG" style="width: 150px; padding: 0; margin: 0 24px" /> <br/>
 
 <p style ="text-align:justify;">I am a PhD student at <a href="https://neuro-team-femto.github.io//">Neuro group @ Femto-st</a>, where I'm working on different psychopysical models on patients with impairments of speech prosody perception in right-hemisphere stroke.</p>
 
