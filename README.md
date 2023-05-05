@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
     <link rel="icon" href="./static/images/favicon.svg?20230128H4650">
-    <link rel=”mask-icon” href="./static/images/favicon.svg" color=”#000000">
+    <link rel="mask-icon" href="./static/images/favicon.svg" color="#000000">
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
@@ -39,7 +39,7 @@
 
 <img alt="Headshot" class="align-left" src="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/6c75cf3f810876e3b67c98f8227b37a08bf29256/DC9E3179-C345-40E9-8A0D-8CE0106DFA7B.JPG" style="width: 220px; padding: 0; margin: 0 24px" />
 
-<p>I am a PhD student at <a href="https://neuro-team-femto.github.io//">Neuro group @ Femto-st</a>, where I'm working on different psychopysical models on patients with impairments of speech prosody perception in right-hemisphere stroke.
+<p>I am a PhD student at <a href="https://neuro-team-femto.github.io//">Neuro group @ Femto-st</a>, where I'm working on different psychopysical models on patients with impairments of speech prosody perception in right-hemisphere stroke.</p>
 
 <p>My background is in Statistics and applied Mathematics. I have been a Bachelor student at <a href="http://usc.ac.ir/en">University of Science and Culture in Iran</a>, a Master student at <a href="https://mathsinfo.univ-tlse2.fr/plaquette-ismag">University of Toulouse II in France</a>, I did different research internships at <a href="https://crmbm.univ-amu.fr">Center for Magnetic Resonance in Biology and Medicine in Marseille</a>, and in domain of Speech Understanding Analysis at <a href="https://www.archean.tech/archean-labs-en.html">Archean Labs</a>. My <a href="./publications.html">research</a> focused on creating a patient’s model through the application of psychopysical models.</p>
 
