@@ -36,13 +36,6 @@
           <p style="text-align:justify;">My background is in Statistics and applied Mathematics. I have been a Bachelor student at <a href="http://usc.ac.ir/en" target="_blank">University of Science and Culture in Iran</a>, a Master student at <a href="https://mathsinfo.univ-tlse2.fr/plaquette-ismag" target="_blank">University of Toulouse II in France</a>, I did different research internships at <a href="https://crmbm.univ-amu.fr" target="_blank">Center for Magnetic Resonance in Biology and Medicine in Marseille</a>, and in the domain of Speech Understanding Analysis at <a href="https://www.archean.tech/archean-labs-en.html" target="_blank">Archean Labs</a>. My <a href="./publications.html" target="_blank">research</a> focused on creating a patient’s model through the application of psychophysical models.</p>
 
           <p style="text-align:justify;">I am also interested in writing Python libraries that can help people understand how to use different computational models like the first one is the computation of internal noise <a href="https://github.com/neuro-team-femto/palin" target="_blank">PALIN</a>, which is for now an open-source GitHub repository.</p>
-          
-          <h2>Publications</h2>
-          <ul>
-            <li>
-              <p style="text-align:justify;"><strong>Aynaz Adl Zarrabi,</strong> Mélissa Jeulin, Pauline Bardet, Pauline Commère, Lionel Naccache, JJ Aucouturier, Emmanuel Ponsot, Marie Villain (2023). MedRxiv. <em>Journal Name</em>,. <a href="[https://doi.org/doi-link](https://doi.org/10.1101/2023.10.17.23297140)" target="_blank">DOI</a></p>
-            </li>
-          </ul>
         </div>
       </div>
 
