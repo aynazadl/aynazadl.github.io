@@ -14,13 +14,6 @@
 <body>
     <div class="container">
         <h1><a href="./index.html">Aynaz Adl Zarrabi, PhD Student</a></h1>
-        <div class="navigation">
-            <ul>
-                <li><a href="./publications.html">Publications</a></li>
-                <li><a href="./software.html">Software</a></li>
-                <li><a href="./resources.html">Resources</a></li>
-            </ul>
-        </div>
 
         <div class="separator"></div>
 
