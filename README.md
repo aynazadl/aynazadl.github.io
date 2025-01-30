@@ -32,7 +32,7 @@
                 <p>
                     Click below to view my extended CV:
                 </p>
-                <a href="./static/files/Aynaz_Adl_Zarrabi_CV.pdf" target="_blank" download 
+                <a href="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/main/cv_Aynaz_ADL_ZARRABI.pdf" target="_blank" download 
                    style="display: inline-block; margin-top: 10px; padding: 10px 20px; background-color: #007bff; color: white; 
                    font-weight: bold; text-decoration: none; border-radius: 5px;">
                     Download CV (PDF)
