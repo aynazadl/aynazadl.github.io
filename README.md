@@ -25,49 +25,45 @@
         <div class="separator"></div>
 
         <div class="body">
-            <div class="page">
-                <img style="float: left; width: 200px; padding: 0; margin: 0 24px" alt="Headshot" class="align-left" 
-                src="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/main/DC9E3179-C345-40E9-8A0D-8CE0106DFA7B.JPG">
+            <div class="photo-section" style="display: flex; align-items: flex-start;">
+                <img style="width: 200px; margin-right: 24px;" alt="Headshot" 
+                     src="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/main/DC9E3179-C345-40E9-8A0D-8CE0106DFA7B.JPG">
+                <div>
+                    <p style="text-align:justify;">
+                        I am a PhD student at <a href="https://neuro-team-femto.github.io/" target="_blank">Neuro group @ Femto-st</a>, 
+                        where I'm working on psychophysical models for patients with impairments in speech prosody perception due to right-hemisphere stroke.
+                    </p>
+                    <p style="text-align:justify;">
+                        My research focuses on **internal state modeling** using GLM-HMM and computational approaches to better understand 
+                        **perseveration and engaged states in patient behavior**. I aim to refine diagnostic tools for **speech perception impairments** 
+                        using **Bayesian models, psychophysics, and statistical learning**.
+                    </p>
+                </div>
+            </div>
 
-                <p style="text-align:justify;">
-                    I am a PhD student at <a href="https://neuro-team-femto.github.io/" target="_blank">Neuro group @ Femto-st</a>, 
-                    where I'm working on psychophysical models for patients with impairments in speech prosody perception due to right-hemisphere stroke.
-                </p>
-
-                <p style="text-align:justify;">
-                    My research focuses on **internal state modeling** using GLM-HMM and computational approaches to better understand 
-                    **perseveration and engaged states in patient behavior**. I aim to refine diagnostic tools for **speech perception impairments** 
-                    using **Bayesian models, psychophysics, and statistical learning**.
-                </p>
-
+            <div style="margin-top: 24px;">
                 <h2>📄 Publications</h2>
-                <ul>
-                    <li>
-                        <b>Adl Zarrabi, A.</b>, et al. (2024). 
-                        "<a href="https://www.nature.com/articles/s41598-024-XXXXX" target="_blank">Title of Your Paper</a>."
-                        *Scientific Reports*.
-                    </li>
-                    <li>
-                        <b>Adl Zarrabi, A.</b>, et al. (2023). 
-                        "<a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank">Another Paper Title</a>."
-                        *Conference Name*.
-                    </li>
-                </ul>
+                <p><b>Adl Zarrabi, A.</b>, et al. (2024). 
+                    "<a href="https://www.nature.com/articles/s41598-024-XXXXX" target="_blank">Title of Your Paper</a>."
+                    *Scientific Reports*.</p>
+                <p><b>Adl Zarrabi, A.</b>, et al. (2023). 
+                    "<a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank">Another Paper Title</a>."
+                    *Conference Name*.</p>
                 <p>More publications available on 
                     <a href="https://scholar.google.com/citations?user=no326G4AAAAJ&hl=en" target="_blank">Google Scholar</a>.
                 </p>
+            </div>
 
+            <div style="margin-top: 24px;">
                 <h2>🖥️ Software & Open-Source Projects</h2>
-                <ul>
-                    <li>
-                        <b><a href="https://github.com/neuro-team-femto/palin" target="_blank">PALIN</a></b> - 
-                        Python package for computing internal noise in behavioral data.
-                    </li>
-                    <li>
-                        <b><a href="https://github.com/aynazadl/YourProject" target="_blank">YourProject</a></b> - 
-                        A tool for [describe your software briefly].
-                    </li>
-                </ul>
+                <p>
+                    <b><a href="https://github.com/neuro-team-femto/palin" target="_blank">PALIN</a></b> - 
+                    Python package for computing internal noise in behavioral data.
+                </p>
+                <p>
+                    <b><a href="https://github.com/aynazadl/YourProject" target="_blank">YourProject</a></b> - 
+                    A tool for [describe your software briefly].
+                </p>
                 <p>More projects available on <a href="https://github.com/aynazadl" target="_blank">GitHub</a>.</p>
             </div>
         </div>
