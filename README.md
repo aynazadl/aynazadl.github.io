@@ -23,7 +23,7 @@
                 src="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/main/1716904836297.jpg">
 
                 <p style="text-align:justify;">
-                    I am a PhD student at <a href="https://neuro-team-femto.github.io/" target="_blank">Neuro group @ Femto-st</a>, 
+                    I am a <a href="https://theses.fr/s340252" target="_blank"> PhD student at <a href="https://neuro-team-femto.github.io/" target="_blank">Neuro group @ Femto-st</a>, 
                     where I'm working on psychophysical models for patients with impairments in speech prosody perception due to right-hemisphere stroke.
                 </p>
 
