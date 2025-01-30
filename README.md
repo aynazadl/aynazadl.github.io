@@ -27,7 +27,7 @@
                     I have a Master's degree in 
                     <a href="https://www.univ-tlse2.fr/accueil/formation-insertion/master-ingenierie-et-science-des-donnees-orientees-metiers-application-a-la-gestion-de-production-ism-ag" target="_blank">
                         Applied Mathematics and Computer Science from Université Toulouse II Jean Jaurès
-                    </a>, where I have developed expertise in Statistical modeling, Mchine learning, and Image processing. 
+                    </a>, where I have developed expertise in Statistical modeling, Machine learning, and Image processing. 
                      I am expected to defend my PhD thesis in Spring 2025.
                 </p>
                 <p>
