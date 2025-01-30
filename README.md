@@ -27,10 +27,10 @@
                     I have a Master's degree in 
                     <a href="https://www.univ-tlse2.fr/accueil/formation-insertion/master-ingenierie-et-science-des-donnees-orientees-metiers-application-a-la-gestion-de-production-ism-ag" target="_blank">
                         Applied Mathematics and Computer Science from Université Toulouse II Jean Jaurès
-                    </a>, where I have developed expertise in **statistical modeling**, **machine learning**, and **image processing**. 
+                    </a>, where I have developed expertise in Statistical modeling, Mchine learning, and Image processing. 
                 </p>
                 <p>
-                    Click below to view or download my CV:
+                    Click below to view my extended CV:
                 </p>
                 <a href="./static/files/Aynaz_Adl_Zarrabi_CV.pdf" target="_blank" download 
                    style="display: inline-block; margin-top: 10px; padding: 10px 20px; background-color: #007bff; color: white; 
