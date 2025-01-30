@@ -27,7 +27,7 @@
         <div class="body">
             <div class="page">
                 <img style="float: left; width: 200px; padding: 0; margin: 0 24px" alt="Headshot" class="align-left" 
-                src="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/main/DC9E3179-C345-40E9-8A0D-8CE0106DFA7B.JPG">
+                src="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/main/1716904836297.jpg">
 
                 <p style="text-align:justify;">
                     I am a PhD student at <a href="https://neuro-team-femto.github.io/" target="_blank">Neuro group @ Femto-st</a>, 
@@ -35,40 +35,34 @@
                 </p>
 
                 <p style="text-align:justify;">
-                    My research focuses on **internal state modeling** using GLM-HMM and computational approaches to better understand 
-                    **perseveration and engaged states in patient behavior**. I aim to refine diagnostic tools for **speech perception impairments** 
-                    using **Bayesian models, psychophysics, and statistical learning**.
+                    I am a third-year PhD candidate in Cognitive Neuroscience at Femto-ST (CNRS/Université Marie et Louis Pasteur, France), specializing in computational modeling and psychophysics. With a strong academic foundation, including a Master's degree in                          Applied Mathematics and Computer Science from Université Toulouse II Jean Jaurès, my research is dedicated to understanding the dynamics of sensory decision-making in post-stroke patients. Leveraging data-driven approaches, I aim to uncover the                         cognitive and behavioral mechanisms underlying impairments in sensory processing
                 </p>
 
                 <h2>📄 Publications</h2>
                 <ul>
                     <li>
-                        <b>Adl Zarrabi, A.</b>, et al. (2024). 
-                        "<a href="https://www.nature.com/articles/s41598-024-XXXXX" target="_blank">Title of Your Paper</a>."
+                        <b>Adl Zarrabi, A.</b>, Jeulin, M., Bardet, P. , Commère, P., Naccache, L. , Aucouturier, JJ. , Ponsot, E., & Villain, M. (2024). 
+                        "<a href="https://www.nature.com/articles/s41598-024-64295-y" target="_blank">A simple psychophysical procedure separates representational and noise components in impairments of speech prosody perception after right-hemisphere stroke</a>."
                         *Scientific Reports*.
                     </li>
                     <li>
-                        <b>Adl Zarrabi, A.</b>, et al. (2023). 
-                        "<a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank">Another Paper Title</a>."
-                        *Conference Name*.
+                        Merchie, A., Ranty, Z., <b>Adl Zarrabi, A.</b>, Bonnet-Brilhault, F., Houy-Durand, E., Aucouturier, JJ. & Gomot, M. (2024). 
+                        "<a href="https://osf.io/preprints/psyarxiv/q4n7z_v1" target="_blank">Intact Representation of Vocal Smile in Autism: A reverse correlation approach</a>."
+                        *Preprint, OSF*.
                     </li>
                 </ul>
                 <p>More publications available on 
-                    <a href="https://scholar.google.com/citations?user=no326G4AAAAJ&hl=en" target="_blank">Google Scholar</a>.
+                    <a href="https://scholar.google.co.uk/citations?hl=en&user=no326G4AAAAJ" target="_blank">Google Scholar</a>.
                 </p>
 
                 <h2>🖥️ Software & Open-Source Projects</h2>
                 <ul>
                     <li>
                         <b><a href="https://github.com/neuro-team-femto/palin" target="_blank">PALIN</a></b> - 
-                        Python package for computing internal noise in behavioral data.
-                    </li>
-                    <li>
-                        <b><a href="https://github.com/aynazadl/YourProject" target="_blank">YourProject</a></b> - 
-                        A tool for [describe your software briefly].
+                        Python package for computing internal noise and mental represenation by Simulaion in psychophysical experiments.
                     </li>
                 </ul>
-                <p>More projects available on <a href="https://github.com/aynazadl" target="_blank">GitHub</a>.</p>
+                <p>More projects available on <a href="https://github.com/neuro-team-femto" target="_blank">GitHub</a>.</p>
             </div>
         </div>
 
@@ -80,7 +74,7 @@
                     <li style="display: inline; margin: 0 2px; padding: 0;"><a href="https://github.com/aynazadl" target="_blank"><i class="fa fa-github"></i></a></li>
                     <li style="display: inline; margin: 0 2px; padding: 0;"><a href="https://twitter.com/AynazAdlzarrabi" target="_blank"><i class="fa fa-twitter"></i></a></li>
                     <li style="display: inline; margin: 0 2px; padding: 0;"><a href="https://www.linkedin.com/in/aynaz-adl-zarrabi/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                    <li style="display: inline; margin: 0 2px; padding: 0;"><a href="https://scholar.google.com/citations?user=no326G4AAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar"></i></a></li>
+                    <li style="display: inline; margin: 0 2px; padding: 0;"><a href="https://scholar.google.co.uk/citations?hl=en&user=no326G4AAAAJ" target="_blank"><i class="ai ai-google-scholar"></i></a></li>
                 </ul>
             </div>
         </div>
