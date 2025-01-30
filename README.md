@@ -23,12 +23,7 @@
                 src="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/main/1716904836297.jpg">
 
                 <p style="text-align:justify;">
-                    I am a <a href="https://theses.fr/s340252" target="_blank"> PhD student at <a href="https://neuro-team-femto.github.io/" target="_blank">Neuro group @ Femto-st</a>, 
-                    where I'm working on psychophysical models for patients with impairments in speech prosody perception due to right-hemisphere stroke.
-                </p>
-
-                <p style="text-align:justify;">
-                    I am a third-year PhD candidate in Cognitive Neuroscience at Femto-ST (CNRS/Université Marie et Louis Pasteur, France), specializing in computational modeling and psychophysics. With a strong academic foundation, including a Master's degree in                          Applied Mathematics and Computer Science from Université Toulouse II Jean Jaurès, my research is dedicated to understanding the dynamics of sensory decision-making in post-stroke patients. Leveraging data-driven approaches, I aim to uncover the                         cognitive and behavioral mechanisms underlying impairments in sensory processing
+                    I am a third-year <a href="https://theses.fr/s340252" target="_blank"> PhD candidate in Computer Science and Cognitive Neuroscience at <a href="https://neuro-team-femto.github.io/" target="_blank"> Neuro group @ Femto-ST (CNRS/Université Marie et Louis Pasteur, France), specializing in computational modeling and psychophysics. With a strong academic foundation, including a <a href="https://www.univ-tlse2.fr/accueil/formation-insertion/master-ingenierie-et-science-des-donnees-orientees-metiers-application-a-la-gestion-de-production-ism-ag" target="_blank"> Master's degree in Applied Mathematics and Computer Science from Université Toulouse II Jean Jaurès, my research is dedicated to understanding the latent dynamics of sensory decision-making in post-stroke patients. Leveraging data-driven approaches, I aim to uncover the cognitive and behavioral mechanisms underlying impairments in sensory processing.
                 </p>
 
                 <h2>📄 Publications</h2>
