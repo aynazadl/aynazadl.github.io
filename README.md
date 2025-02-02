@@ -62,7 +62,7 @@
                 <h2>🖥️ Software & Open-Source Projects</h2>
                 <ul>
                     <li>
-                        <b><a href="https://github.com/neuro-team-femto/palin" target="_blank">PALIN</a></b> - 
+                        <b><a href="https://github.com/aynazadl/palin" target="_blank">PALIN</a></b> - 
                         Python package for computing internal noise and mental representation through simulation in psychophysical experiments.
                     </li>
                 </ul>
