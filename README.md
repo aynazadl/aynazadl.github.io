@@ -66,7 +66,7 @@
                         Python package for computing internal noise and mental representation through simulation in psychophysical experiments.
                     </li>
                 </ul>
-                <p>More projects available on <a href="https://github.com/neuro-team-femto" target="_blank">GitHub</a>.</p>
+                <p>More projects available on <a href="https://github.com/aynazadl?tab=repositories" target="_blank">GitHub</a>.</p>
             </div>
         </div>
 
