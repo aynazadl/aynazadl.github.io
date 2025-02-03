@@ -9,22 +9,6 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Aynaz Adl Zarrabi, PhD Student | Research & Software</title>
     <link rel="stylesheet" href="./static/css/style.css?20230128H4650" type="text/css" />
-    <style>
-    body {
-        background-color: #f4f4f4; /* Light gray */
-        color: #333; /* Dark text */
-        font-family: Arial, sans-serif;
-    }
-    .page {
-        background-color: white;
-        padding: 20px;
-        border-radius: 10px;
-        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-        max-width: 900px;
-        margin: 40px auto;
-    }
-</style>
-
 </head>
 
 <body>
