@@ -55,7 +55,7 @@
                         *Preprint, OSF*.
                     </li>
                 </ul>
-                <p>More publications available on 
+                <p>More publications and presentations available on 
                     <a href="https://scholar.google.co.uk/citations?hl=en&user=no326G4AAAAJ" target="_blank">Google Scholar</a>.
                 </p>
 
