@@ -49,10 +49,10 @@
                     </li>
                     <li>
                         Merchie, A., Ranty, Z., <b>Adl Zarrabi, A.</b>, Bonnet-Brilhault, F., Houy-Durand, E., Aucouturier, JJ., & Gomot, M. (2024). 
-                        "<a href="https://osf.io/preprints/psyarxiv/q4n7z_v1" target="_blank">
+                        "<a href="https://doi.org/10.1016/j.reia.2025.202599" target="_blank">
                             Intact Representation of Vocal Smile in Autism: A reverse correlation approach
                         </a>."
-                        *Preprint, OSF*.
+                        *Research in Autism*.
                     </li>
                 </ul>
                 <p>More publications and presentations available on 
