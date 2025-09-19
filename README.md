@@ -7,7 +7,7 @@
     <link rel="icon" href="./static/images/favicon.svg?20230128H4650">
     <link rel="mask-icon" href="./static/images/favicon.svg" color="#000000">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Aynaz Adl Zarrabi, PhD Student | Research & Software</title>
+    <title>Aynaz Adl Zarrabi, PhD | Research & Software</title>
     <link rel="stylesheet" href="./static/css/style.css?20230128H4650" type="text/css" />
 </head>
 
@@ -28,12 +28,15 @@
                     <a href="https://www.univ-tlse2.fr/accueil/formation-insertion/master-ingenierie-et-science-des-donnees-orientees-metiers-application-a-la-gestion-de-production-ism-ag" target="_blank">
                         Applied Mathematics and Computer Science from Université Toulouse II Jean Jaurès
                     </a>, where I have developed expertise in Statistical modeling, Machine learning, and Image processing. 
-                     I will defend my PhD thesis in July 2025.
+                     You can find my PhD thesis here. 
+                     "<a href="https://neuro-team-femto.github.io/articles/2025/adl_zarrabi_phd_2025.pdf" target="_blank">
+                            Reverse-correlation modeling of deficits of prosody perception in right-hemisphere stroke
+                        </a>."
                 </p>
                 <p>
                     Click below to view my extended CV:
                 </p>
-                <a href="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/main/cv_Aynaz_ADL_ZARRABI.pdf" target="_blank" download 
+                <a href="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/main/CV_AAZ.pdf" target="_blank" download 
                    style="display: inline-block; margin-top: 10px; padding: 10px 20px; background-color: #007bff; color: white; 
                    font-weight: bold; text-decoration: none; border-radius: 5px;">
                     Download CV (PDF)
