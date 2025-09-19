@@ -29,9 +29,7 @@
                         Applied Mathematics and Computer Science from Université Toulouse II Jean Jaurès
                     </a>, where I have developed expertise in Statistical modeling, Machine learning, and Image processing. 
                      You can find my PhD thesis here. 
-                     "<a href="https://neuro-team-femto.github.io/articles/2025/adl_zarrabi_phd_2025.pdf" target="_blank">
-                            Reverse-correlation modeling of deficits of prosody perception in right-hemisphere stroke
-                        </a>."
+                     <a href="https://neuro-team-femto.github.io/articles/2025/adl_zarrabi_phd_2025.pdf" target="_blank">Reverse-correlation modeling of deficits of prosody perception in right-hemisphere stroke</a>.
                 </p>
                 <p>
                     Click below to view my extended CV:
