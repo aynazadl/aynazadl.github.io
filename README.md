@@ -28,9 +28,7 @@
                     I have a Master's degree in 
                     <a href="https://www.univ-tlse2.fr/accueil/formation-insertion/master-ingenierie-et-science-des-donnees-orientees-metiers-application-a-la-gestion-de-production-ism-ag" target="_blank">
                         Applied Mathematics and Computer Science from Université Toulouse II Jean Jaurès
-                    </a>, where I have developed expertise in Statistical modeling, Machine learning, and Image processing. 
-                     You can find my PhD thesis here. 
-                     <a href="https://neuro-team-femto.github.io/articles/2025/adl_zarrabi_phd_2025.pdf" target="_blank">Reverse-correlation modeling of deficits of prosody perception in right-hemisphere stroke</a>.
+                    </a>, where I have developed expertise in Statistical modeling, Machine learning, and Image processing.
                 </p>
                 <p>
                     Click below to view my extended CV:
@@ -42,9 +40,16 @@
                 </a>
                 <h2>📄 Publications</h2>
                 <ul>
+                    
+                    <li>
+                        <b>Adl Zarrabi, A.</b>(2025). 
+                        "<a href="https://www.nature.com/articles/s41598-024-64295-y" target="_blank">
+                            PhD Thesis, Reverse-correlation modeling of deficits of prosody perception in right-hemisphere stroke
+                        </a>."
+                    </li>
                     <li>
                         <b>Adl Zarrabi, A.</b>, Jeulin, M., Bardet, P., Commère, P., Naccache, L., Aucouturier, JJ., Ponsot, E., & Villain, M. (2024). 
-                        "<a href="https://www.nature.com/articles/s41598-024-64295-y" target="_blank">
+                        "<a href="https://theses.hal.science/tel-05372388" target="_blank">
                             A simple psychophysical procedure separates representational and noise components in impairments of speech prosody perception after right-hemisphere stroke
                         </a>."
                         *Scientific Reports*.
