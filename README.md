@@ -83,7 +83,6 @@
                 <ul style="list-style: none;">
                     <li style="display: inline; margin: 0 2px; padding: 0;"><a href="mailto:aynazadl1+www@gmail.com"><i class="fa fa-envelope"></i></a></li>
                     <li style="display: inline; margin: 0 2px; padding: 0;"><a href="https://github.com/aynazadl" target="_blank"><i class="fa fa-github"></i></a></li>
-                    <li style="display: inline; margin: 0 2px; padding: 0;"><a href="https://twitter.com/AynazAdlzarrabi" target="_blank"><i class="fa fa-twitter"></i></a></li>
                     <li style="display: inline; margin: 0 2px; padding: 0;"><a href="https://www.linkedin.com/in/aynaz-adl-zarrabi/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                     <li style="display: inline; margin: 0 2px; padding: 0;"><a href="https://scholar.google.co.uk/citations?hl=en&user=no326G4AAAAJ" target="_blank"><i class="ai ai-google-scholar"></i></a></li>
                 </ul>
