@@ -2,8 +2,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Aynaz Adl Zarrabi, PhD | Research & Software</title>
-
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Noticia+Text:400,700" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -19,7 +17,6 @@
 
         <main class="body">
             <div class="page">
-                <h1 style="margin-bottom:5px;">Aynaz Adl Zarrabi, PhD</h1>
                 <img
                     src="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/main/1716904836297.jpg"
                     alt="Portrait of Aynaz Adl Zarrabi"
