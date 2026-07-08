@@ -19,6 +19,7 @@
 
         <main class="body">
             <div class="page">
+                <h1 style="margin-bottom:5px;">Aynaz Adl Zarrabi, PhD</h1>
                 <img
                     src="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/main/1716904836297.jpg"
                     alt="Portrait of Aynaz Adl Zarrabi"
