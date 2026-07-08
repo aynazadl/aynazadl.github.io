@@ -21,10 +21,11 @@
                      src="https://raw.githubusercontent.com/aynazadl/aynazadl.github.io/main/1716904836297.jpg">
 
                 <p style="text-align:justify;">
-                    I am a Postdoctoral Researcher at the <a href="https://ipnp.paris5.inserm.fr/recherche/equipes-et-projets/18-equipe-oppenheim" target="_blank"> Oppenheim Team at                         IPNP (Institut de Psychiatrie et Neurosciences de Paris)</a>. My current research focuses on multimodal neuroimaging and computational modeling to identify                                structural and functional brain biomarkers associated with anorexia nervosa. 
+                    I am a Postdoctoral Researcher at the Gorwood/Ramoz and<a href="https://ipnp.paris5.inserm.fr/recherche/equipes-et-projets/18-equipe-oppenheim" target="_blank"> Oppenheim Team at IPNP (Institut de Psychiatrie et Neurosciences de Paris)</a>. My current research focuses on multimodal neuroimaging and computational                         modeling to identify structural and functional brain biomarkers associated with anorexia nervosa. 
                     I hold a PhD <a href="https://theses.fr/s340252" target="_blank"> in Computer Science and Cognitive Neuroscience</a> from 
                     <a href="https://neuro-team-femto.github.io/" target="_blank">Neuro group @ Femto-ST</a> (CNRS/Université Marie et Louis Pasteur, France), specializing in 
-                    probabilistic modeling and psychophysics. My research is dedicated to understanding the latent dynamics of sensory decision-making in post-stroke patients.                                Leveraging data-driven approaches, I aim to uncover the cognitive and behavioral mechanisms underlying impairments in sensoryprocessing. 
+                    probabilistic modeling and psychophysics. My research is dedicated to understanding the latent dynamics of sensory decision-making in post-stroke patients.                                
+                    Leveraging data-driven approaches, I aim to uncover the cognitive and behavioral mechanisms underlying impairments in sensoryprocessing. 
                     I have a Master's degree in 
                     <a href="https://www.univ-tlse2.fr/accueil/formation-insertion/master-ingenierie-et-science-des-donnees-orientees-metiers-application-a-la-gestion-de-production-ism-ag" target="_blank">
                         Applied Mathematics and Computer Science from Université Toulouse II Jean Jaurès
@@ -40,7 +41,18 @@
                 </a>
                 <h2>📄 Publications</h2>
                 <ul>
-                    
+                    <li>
+                        <b>Adl Zarrabi, A.</b>, Aucouturier, JJ.,& Villain, M. 
+                        "<a in prep">
+                             Latent State Modeling of Prosody Perception After Right-Hemisphere Stroke
+                        </a>."
+                    </li>
+                    <li>
+                        <b>Adl Zarrabi, A.</b>, Aucouturier, JJ., Nalborczyk, L., Villain, M. 
+                        "<a in prep">
+                             Three new analysis methods to estimate internal noise in data-driven experiments
+                        </a>."
+                    </li>
                     <li>
                         <b>Adl Zarrabi, A.</b>(2025). 
                         "<a href="https://www.nature.com/articles/s41598-024-64295-y" target="_blank">
