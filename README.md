@@ -40,38 +40,41 @@
                     Download CV (PDF)
                 </a>
                 <h2>📄 Publications</h2>
-                <ul>
+               <ul>
                     <li>
-                        <b>Adl Zarrabi, A.</b>, Aucouturier, JJ.,& Villain, M. 
-                        "<a in prep">
-                             Latent State Modeling of Prosody Perception After Right-Hemisphere Stroke
-                        </a>."
+                        <b>Adl Zarrabi, A.</b>, Aucouturier, J.-J., &amp; Villain, M.
+                        <em>Latent State Modeling of Prosody Perception After Right-Hemisphere Stroke.</em>
+                        <span>(In preparation)</span>
                     </li>
+                
                     <li>
-                        <b>Adl Zarrabi, A.</b>, Aucouturier, JJ., Nalborczyk, L., Villain, M. 
-                        "<a in prep">
-                             Three new analysis methods to estimate internal noise in data-driven experiments
-                        </a>."
+                        <b>Adl Zarrabi, A.</b>, Aucouturier, J.-J., Nalborczyk, L., &amp; Villain, M.
+                        <em>Three New Analysis Methods to Estimate Internal Noise in Data-Driven Experiments.</em>
+                        <span>(In preparation)</span>
                     </li>
+                
                     <li>
-                        <b>Adl Zarrabi, A.</b>(2025). 
-                        "<a href="https://www.nature.com/articles/s41598-024-64295-y" target="_blank">
-                            PhD Thesis, Reverse-correlation modeling of deficits of prosody perception in right-hemisphere stroke
-                        </a>."
+                        <b>Adl Zarrabi, A.</b> (2025).
+                        <a href="https://theses.hal.science/tel-05372388" target="_blank">
+                            Reverse-Correlation Modeling of Deficits of Prosody Perception in Right-Hemisphere Stroke
+                        </a>.
+                        <em>PhD Thesis.</em>
                     </li>
+                
                     <li>
-                        <b>Adl Zarrabi, A.</b>, Jeulin, M., Bardet, P., Commère, P., Naccache, L., Aucouturier, JJ., Ponsot, E., & Villain, M. (2024). 
-                        "<a href="https://theses.hal.science/tel-05372388" target="_blank">
-                            A simple psychophysical procedure separates representational and noise components in impairments of speech prosody perception after right-hemisphere stroke
-                        </a>."
-                        *Scientific Reports*.
+                        <b>Adl Zarrabi, A.</b>, Jeulin, M., Bardet, P., Commère, P., Naccache, L., Aucouturier, J.-J., Ponsot, E., &amp; Villain, M. (2024).
+                        <a href="https://www.nature.com/articles/s41598-024-64295-y" target="_blank">
+                            A Simple Psychophysical Procedure Separates Representational and Noise Components in Impairments of Speech Prosody Perception After Right-Hemisphere Stroke
+                        </a>.
+                        <em>Scientific Reports.</em>
                     </li>
+                
                     <li>
-                        Merchie, A., Ranty, Z., <b>Adl Zarrabi, A.</b>, Bonnet-Brilhault, F., Houy-Durand, E., Aucouturier, JJ., & Gomot, M. (2024). 
-                        "<a href="https://doi.org/10.1016/j.reia.2025.202599" target="_blank">
-                            Intact Representation of Vocal Smile in Autism: A reverse correlation approach
-                        </a>."
-                        *Research in Autism*.
+                        Merchie, A., Ranty, Z., <b>Adl Zarrabi, A.</b>, Bonnet-Brilhault, F., Houy-Durand, E., Aucouturier, J.-J., &amp; Gomot, M. (2025).
+                        <a href="https://doi.org/10.1016/j.reia.2025.202599" target="_blank">
+                            Intact Representation of Vocal Smile in Autism: A Reverse Correlation Approach
+                        </a>.
+                        <em>Research in Autism.</em>
                     </li>
                 </ul>
                 <p>More publications and presentations available on 
