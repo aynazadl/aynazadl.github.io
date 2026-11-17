@@ -70,9 +70,10 @@
                 <ul>
                     <li>
                         <b>Adl Zarrabi, A.</b>, Cachia, A., Tolle, V., Da Costa, C., Lebrun, N., Debacker, C., Charron, S., Chakravarty, M. M., Daumas, S., El Mestikawy, S., Oppenheim, C., Gorwood, P., &amp; Duriez, P. (2026).
-                        <em>Posterior-anterior striatal reorganization after weight restoration in anorexia nervosa is associated with remission outcome: from mice to longitudinal human study.</em>
-                        <span>medRxiv.</span>
-                        <a href="https://doi.org/10.64898/2026.10.23.26366116">DOI</a>
+                        <a href="https://doi.org/10.64898/2026.10.23.26366116" target="_blank" rel="noopener noreferrer">
+                        Posterior-anterior striatal reorganization after weight restoration in anorexia nervosa is associated with remission outcome: from mice to longitudinal human study.
+                        </a>
+                        <em>medRxiv</em>                        
                     </li>
                     <li>
                         <b>Adl Zarrabi, A.</b>, Aucouturier, J.-J., &amp; Villain, M.
